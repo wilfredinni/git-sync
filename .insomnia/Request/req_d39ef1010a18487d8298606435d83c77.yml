@@ -1,0 +1,23 @@
+_id: req_d39ef1010a18487d8298606435d83c77
+type: Request
+parentId: fld_7441aeeb7f9a4edcb76bd52fa13e3169
+modified: 1693697768932
+created: 1693697682726
+url: http://localhost:3000/api/auth/providers
+name: Auth Providers
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+authentication: {}
+metaSortKey: -1693697741146
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

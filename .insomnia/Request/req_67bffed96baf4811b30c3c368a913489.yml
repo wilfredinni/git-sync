@@ -1,0 +1,28 @@
+_id: req_67bffed96baf4811b30c3c368a913489
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1694352431838
+created: 1693154635576
+url: http://localhost:8000/newsletter/5813c866-5f7a-454e-8cac-ea1e93e63ff4/
+name: Newsletter
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: admin@admin.com
+  password: admin
+metaSortKey: -1693697674593
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

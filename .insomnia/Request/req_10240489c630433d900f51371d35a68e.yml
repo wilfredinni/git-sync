@@ -1,0 +1,31 @@
+_id: req_10240489c630433d900f51371d35a68e
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1693778177617
+created: 1693698295250
+url: http://127.0.0.1:8000/rest-auth/login/
+name: Auth Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "email": "admin@admin.com",
+      "password": "admin"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.7
+authentication: {}
+metaSortKey: -1693698295250
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
