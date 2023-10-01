@@ -1,0 +1,38 @@
+_id: req_4e91ce89ceb7451e8f9e6efdfdd738e9
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1696171000138
+created: 1696168798546
+url: http://localhost:8000/newsletter/webhooks/resend/
+name: Resend Webhooks
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {
+      "type": "email.bounced",
+      "created_at": "2023-02-22T23:41:12.126Z",
+      "data": {
+        "created_at": "2023-02-22T23:41:11.894719+00:00",
+        "email_id": "4f299ad4-2ee5-4adf-b865-88bd906caab9",
+        "from": "Acme <onboarding@resend.dev>",
+        "to": ["delivered@resend.dev"],
+        "subject": "Sending this example"
+      }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1696168798546
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
