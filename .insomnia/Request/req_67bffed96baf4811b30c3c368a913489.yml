@@ -1,9 +1,9 @@
 _id: req_67bffed96baf4811b30c3c368a913489
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1694352431838
+modified: 1694556766355
 created: 1693154635576
-url: http://localhost:8000/newsletter/5813c866-5f7a-454e-8cac-ea1e93e63ff4/
+url: http://localhost:8000/newsletter/3208b40a-716b-454c-9b02-986b3a4b8f5a/
 name: Newsletter
 description: ""
 method: GET
@@ -16,8 +16,8 @@ authentication:
   type: basic
   useISO88591: false
   disabled: false
-  username: admin@admin.com
-  password: admin
+  username: carlos@pythoncheatsheet.org
+  password: Sigilfredo84?_
 metaSortKey: -1693697674593
 isPrivate: false
 settingStoreCookies: true

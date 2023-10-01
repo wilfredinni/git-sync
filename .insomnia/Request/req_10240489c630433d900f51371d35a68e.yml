@@ -1,7 +1,7 @@
 _id: req_10240489c630433d900f51371d35a68e
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1693778177617
+modified: 1694555135105
 created: 1693698295250
 url: http://127.0.0.1:8000/rest-auth/login/
 name: Auth Login
@@ -21,7 +21,7 @@ headers:
   - name: User-Agent
     value: Insomnia/2023.5.7
 authentication: {}
-metaSortKey: -1693698295250
+metaSortKey: -1693697674493
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
