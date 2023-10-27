@@ -1,0 +1,35 @@
+_id: req_7701ae7f17494b5888086596bdf02efb
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1698009410522
+created: 1698001889215
+url: http://localhost:8000/newsletter/subscribers/resend-subscription/
+name: Resend Subscriber Email
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"subscriberId": 9621
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: carlos@pythoncheatsheet.org
+  password: Sigilfredo84?_
+metaSortKey: -1693861395010
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

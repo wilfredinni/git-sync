@@ -1,0 +1,23 @@
+_id: req_6ceda12e98b9473aa97e9fe19b81ff43
+type: Request
+parentId: fld_7441aeeb7f9a4edcb76bd52fa13e3169
+modified: 1698010004455
+created: 1698009861762
+url: http://localhost:3000/api/subscribers
+name: Fetch subscribers
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1698009861762
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

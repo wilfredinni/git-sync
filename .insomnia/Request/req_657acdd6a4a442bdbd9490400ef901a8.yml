@@ -1,0 +1,23 @@
+_id: req_657acdd6a4a442bdbd9490400ef901a8
+type: Request
+parentId: fld_7441aeeb7f9a4edcb76bd52fa13e3169
+modified: 1698009922666
+created: 1698009768244
+url: http://localhost:3000/api/subscribers/resend-subscription
+name: Resend email
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1698009768244
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

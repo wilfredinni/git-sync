@@ -1,0 +1,28 @@
+_id: req_fcbc1c9df4ad40c9a609a46c0e3f5281
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1698014142039
+created: 1698014103647
+url: http://localhost:8000/newsletter/subscribers/9621/
+name: Delete subscriber
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: carlos@pythoncheatsheet.org
+  password: Sigilfredo84?_
+metaSortKey: -1694188702738
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
