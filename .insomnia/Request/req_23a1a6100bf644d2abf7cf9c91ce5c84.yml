@@ -1,9 +1,9 @@
 _id: req_23a1a6100bf644d2abf7cf9c91ce5c84
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1696172070259
+modified: 1698014124713
 created: 1694352356602
-url: http://localhost:8000/newsletter/subscribers/9113
+url: http://localhost:8000/newsletter/subscribers/9621
 name: Subscribers
 description: ""
 method: GET

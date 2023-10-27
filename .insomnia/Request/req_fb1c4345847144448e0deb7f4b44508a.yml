@@ -1,7 +1,7 @@
 _id: req_fb1c4345847144448e0deb7f4b44508a
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1695163621692
+modified: 1698444919995
 created: 1695163557088
 url: http://localhost:8000/newsletter/subscribers/
 name: New Subscriber
@@ -11,8 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"email": "carlos@pythoncheatsheet.org",
-    	"newsletter": "3208b40a-716b-454c-9b02-986b3a4b8f5a"
+    	"email": "carlos@pythoncheatsheet.org"
     }
 parameters: []
 headers:

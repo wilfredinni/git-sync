@@ -1,9 +1,9 @@
 _id: req_10240489c630433d900f51371d35a68e
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1694555135105
+modified: 1698002203835
 created: 1693698295250
-url: http://127.0.0.1:8000/rest-auth/login/
+url: http://localhost:8000/rest-auth/login/
 name: Auth Login
 description: ""
 method: POST
@@ -11,8 +11,8 @@ body:
   mimeType: application/json
   text: |-
     {
-      "email": "admin@admin.com",
-      "password": "admin"
+      "email": "carlos@pythoncheatsheet.org",
+      "password": "Sigilfredo84?_"
     }
 parameters: []
 headers:
