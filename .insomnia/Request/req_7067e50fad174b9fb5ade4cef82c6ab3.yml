@@ -1,0 +1,42 @@
+_id: req_7067e50fad174b9fb5ade4cef82c6ab3
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1702132017595
+created: 1702051699031
+url: http://localhost:8000/issues/
+name: Create Issue
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title": "Test Issue",
+    	"summary": "Welcome to Python Cheatsheet first Issue!",
+    	"due_date": "2023-12-05T16:00:00Z"
+    }
+parameters:
+  - id: pair_71c13d1975eb458c87182672d8794103
+    name: status
+    value: draft
+    description: ""
+    disabled: true
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: carlos@pythoncheatsheet.org
+  password: Sigilfredo84?_
+metaSortKey: -1693697674343
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

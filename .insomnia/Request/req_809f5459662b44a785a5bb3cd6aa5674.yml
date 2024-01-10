@@ -1,0 +1,32 @@
+_id: req_809f5459662b44a785a5bb3cd6aa5674
+type: Request
+parentId: fld_4a224ba315454cbeb58825431dffc27a
+modified: 1704759591943
+created: 1704759428729
+url: https://grudget-backend-production.up.railway.app/newsletter/subscribers/
+name: New Subscriber Railway
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "carlos@pythoncheatsheet.org"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA0NzYyMTU3LCJpYXQiOjE3MDQ3NTk0NTcsImp0aSI6ImFlNGIxYWUyMzg4MTRjNzM4NmY0NjVhZTU1OTJmZWE1IiwiaWQiOjF9.Aqdc7xpY6dBvu5lTdeCCom0WBpl8H68mUepYurKA6Bg
+metaSortKey: -1693943221942
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
