@@ -1,9 +1,9 @@
 _id: req_10240489c630433d900f51371d35a68e
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1698002203835
+modified: 1704759455706
 created: 1693698295250
-url: http://localhost:8000/rest-auth/login/
+url: https://grudget-backend-production.up.railway.app/rest-auth/login/
 name: Auth Login
 description: ""
 method: POST
