@@ -1,14 +1,39 @@
 _id: req_23a1a6100bf644d2abf7cf9c91ce5c84
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1698014124713
+modified: 1710686784937
 created: 1694352356602
-url: http://localhost:8000/newsletter/subscribers/9621
+url: http://localhost:8000/newsletter/subscribers/
 name: Subscribers
 description: ""
 method: GET
 body: {}
-parameters: []
+parameters:
+  - id: pair_fe0d5af778884a5cb79b36a2b995aacd
+    name: status
+    value: active
+    description: ""
+    disabled: true
+  - id: pair_9820728c36a74fda975f318e6467bd9b
+    name: status
+    value: unconfirmed
+    description: ""
+    disabled: true
+  - id: pair_8a557eee4dc449d0a076b7ceecae3b2d
+    name: source
+    value: manual
+    description: ""
+    disabled: true
+  - id: pair_58bc6189e34b42c9818c65296890398b
+    name: source
+    value: api
+    description: ""
+    disabled: true
+  - id: pair_c5c51cb0b64845ce9dbc053c761c18d0
+    name: q
+    value: carlos
+    description: ""
+    disabled: false
 headers:
   - name: User-Agent
     value: insomnia/2023.5.8
