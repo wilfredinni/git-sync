@@ -1,7 +1,7 @@
 _id: req_23a1a6100bf644d2abf7cf9c91ce5c84
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1710686784937
+modified: 1710698276513
 created: 1694352356602
 url: http://localhost:8000/newsletter/subscribers/
 name: Subscribers
@@ -23,7 +23,7 @@ parameters:
     name: source
     value: manual
     description: ""
-    disabled: true
+    disabled: false
   - id: pair_58bc6189e34b42c9818c65296890398b
     name: source
     value: api
@@ -33,7 +33,7 @@ parameters:
     name: q
     value: carlos
     description: ""
-    disabled: false
+    disabled: true
 headers:
   - name: User-Agent
     value: insomnia/2023.5.8

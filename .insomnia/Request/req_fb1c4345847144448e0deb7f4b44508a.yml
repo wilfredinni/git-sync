@@ -1,7 +1,7 @@
 _id: req_fb1c4345847144448e0deb7f4b44508a
 type: Request
 parentId: fld_4a224ba315454cbeb58825431dffc27a
-modified: 1704759477266
+modified: 1711224288804
 created: 1695163557088
 url: http://localhost:8000/newsletter/subscribers/
 name: New Subscriber
@@ -12,7 +12,7 @@ body:
   text: |-
     {
     	"email": "carlos@pythoncheatsheet.org",
-    	"source": "manual"
+    	"source": "api"
     }
 parameters: []
 headers:
@@ -21,8 +21,11 @@ headers:
   - name: User-Agent
     value: insomnia/2023.5.8
 authentication:
-  type: bearer
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA0NzYyMTU3LCJpYXQiOjE3MDQ3NTk0NTcsImp0aSI6ImFlNGIxYWUyMzg4MTRjNzM4NmY0NjVhZTU1OTJmZWE1IiwiaWQiOjF9.Aqdc7xpY6dBvu5lTdeCCom0WBpl8H68mUepYurKA6Bg
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: carlos@pythoncheatsheet.org
+  password: Sigilfredo84?_
 metaSortKey: -1694025048874
 isPrivate: false
 settingStoreCookies: true
